@@ -14,7 +14,11 @@ This project was created using xampp and PHP7. Original website template is my o
 
 >You can download [Xampp](https://www.apachefriends.org/tr/download.html) here.
 
->My original website for this template [Xampp](http://www.oldthiefstudio.com) here.
+Also you need to download plugins for using bootstrap with the link under the text. You need to unzip plugins inside this path : " admin_panel/Admin/ "
+
+>You can download   [Bootstrap Plugin](https://www.apachefriends.org/tr/download.html) on here.
+
+>My original website for this template [Bahadir NURAL](http://www.oldthiefstudio.com) here.
 
 Now you are ready to start program. Go to  folder path in your visual studio code terminal and write your own code.
 
