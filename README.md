@@ -18,6 +18,8 @@ Also you need to download plugins for using bootstrap with the link under the te
 
 >You can download   [Bootstrap Plugin](https://www.apachefriends.org/tr/download.html) on here.
 
+For good UI Designs you can check my original website for this template.
+
 >My original website for this template [Bahadir NURAL](http://www.oldthiefstudio.com) here.
 
 Now you are ready to start program. Go to  folder path in your visual studio code terminal and write your own code.
