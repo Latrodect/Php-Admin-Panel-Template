@@ -6,7 +6,7 @@ Start building your great site! This template includes general settings manageme
 When you create your own databases, you can make the necessary updates by looking at the database backup or continue to develop over the existing database.
 
 
-## Requirements
+## Setup, Installitation, Requirements
 
 
 This project was created using xampp and PHP7. Original website template is my own website. During the installation, you can load the database I use through phpmyadmin, or you can continue with your own database integration.
@@ -16,7 +16,7 @@ This project was created using xampp and PHP7. Original website template is my o
 
 Also you need to download plugins for using bootstrap with the link under the text. You need to unzip plugins inside this path : " admin_panel/Admin/ "
 
->You can download   [Bootstrap Plugin](https://www.apachefriends.org/tr/download.html) on here.
+>You can download   [Bootstrap Plugin](https://1drv.ms/u/s!AvAjKVK8d2-DippZutGWBB8Fbri_AQ?e=YbDneM) on here.
 
 For good UI Designs you can check my original website for this template.
 
